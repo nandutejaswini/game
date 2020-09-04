@@ -32,6 +32,7 @@ while True:
         elif com_selects == "rock":
             print(" both are win")
 
+            
     elif user_selects == "paper":
         if com_selects == "scissor":
             print("you choose paper,computer choose scissor,computer won")
